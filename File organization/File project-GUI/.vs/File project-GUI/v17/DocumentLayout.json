@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2B9BC488-D74E-4CB9-AECF-8F5B2CB32C49}|File project-GUI\\File project-GUI.csproj|solutionrelative:file project-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9BC488-D74E-4CB9-AECF-8F5B2CB32C49}|File project-GUI\\File project-GUI.csproj|e:\\projects\\sha\\file organization\\file project-gui\\file project-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B9BC488-D74E-4CB9-AECF-8F5B2CB32C49}|File project-GUI\\File project-GUI.csproj|E:\\Projects\\Sha\\File organization\\File project-GUI\\file project-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9BC488-D74E-4CB9-AECF-8F5B2CB32C49}|File project-GUI\\File project-GUI.csproj|solutionrelative:file project-gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "File project-GUI\\Form1.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAmwBoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:26:22.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T17:26:22.129Z"
             }
           ]
         }
