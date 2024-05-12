@@ -1,0 +1,17 @@
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\bin\Debug\net8.0-windows\File project-GUI.exe
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\bin\Debug\net8.0-windows\File project-GUI.deps.json
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\bin\Debug\net8.0-windows\File project-GUI.runtimeconfig.json
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\bin\Debug\net8.0-windows\File project-GUI.dll
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\bin\Debug\net8.0-windows\File project-GUI.pdb
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File_project_GUI.Form1.resources
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.csproj.GenerateResource.cache
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.AssemblyInfoInputs.cache
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.AssemblyInfo.cs
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.csproj.CoreCompileInputs.cache
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.sourcelink.json
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.dll
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\refint\File project-GUI.dll
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.pdb
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\File project-GUI.genruntimeconfig.cache
+E:\Projects\Sha\File organization\File project-GUI\File project-GUI\obj\Debug\net8.0-windows\ref\File project-GUI.dll

@@ -1,0 +1,15 @@
+E:\Projects\Sha\File organization\File project\File project\bin\Debug\net8.0\File project.exe
+E:\Projects\Sha\File organization\File project\File project\bin\Debug\net8.0\File project.deps.json
+E:\Projects\Sha\File organization\File project\File project\bin\Debug\net8.0\File project.runtimeconfig.json
+E:\Projects\Sha\File organization\File project\File project\bin\Debug\net8.0\File project.dll
+E:\Projects\Sha\File organization\File project\File project\bin\Debug\net8.0\File project.pdb
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\File project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\File project.AssemblyInfoInputs.cache
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\File project.AssemblyInfo.cs
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\File project.csproj.CoreCompileInputs.cache
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\File project.sourcelink.json
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\File project.dll
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\refint\File project.dll
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\File project.pdb
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\File project.genruntimeconfig.cache
+E:\Projects\Sha\File organization\File project\File project\obj\Debug\net8.0\ref\File project.dll
