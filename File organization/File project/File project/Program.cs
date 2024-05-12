@@ -39,30 +39,68 @@ internal class Program
 
         //--------------------------------------------------------------------------
 
-        {
-            string line;
-            string filename1, filename2;
-            Console.WriteLine("Enter the name of file1: ");
-            filename1 = Console.ReadLine();
-            Console.WriteLine("Enter the name of file2: ");
-            filename2 = Console.ReadLine();
 
-            StreamReader file1 = new StreamReader(filename1);
-            StreamWriter file2 = new StreamWriter(filename2);
+        //string line;
+        //string filename1, filename2;
+        //Console.WriteLine("Enter the name of file1: ");
+        //filename1 = Console.ReadLine();
+        //Console.WriteLine("Enter the name of file2: ");
+        //filename2 = Console.ReadLine();
 
-            while ((line = file1.ReadLine()) != null)
+        //StreamReader file1 = new StreamReader(filename1);
+        //StreamWriter file2 = new StreamWriter(filename2);
+
+        //while ((line = file1.ReadLine()) != null)
+        //{
+        //    file2.WriteLine(line);
+        //}
+        //file1.Close();
+        //file2.Flush();
+        //file2.Close();
+        //Console.ReadLine();
+
+        //---------------------------------------------------------------------------
+
+
+
+        
+
+
+            string fileone = "Case one";
+            string filetwo = "Case two";
+            string file = "Case Merge";
+
+            if (File.Exists(fileone) && File.Exists(filetwo))
             {
-                file2.WriteLine(line);
+                using (var ST1 = new FileStream(fileone, FileMode.Open, FileAccess.Read))
+                using (var ST2 = new FileStream(filetwo, FileMode.Open, FileAccess.Read))
+                using (var ST = new FileStream(file, FileMode.Append, FileAccess.Write))
+                using (var S1 = new StreamReader(ST1))
+                using (var S2 = new StreamReader(ST2))
+                using (var S3 = new StreamWriter(ST))
+                {
+                    string line;
+
+                    while ((line = S1.ReadLine()) != null)
+                    {
+                        S3.WriteLine(line);
+                    }
+
+                    while ((line = S2.ReadLine()) != null)
+                    {
+                        S3.WriteLine(line);
+                    }
+                }
+
+                Console.WriteLine("Merging done.");
             }
-            file1.Close();
-            file2.Flush();
-            file2.Close();
-            Console.ReadLine();
-
-
-
-
-
+            else
+            {
+                Console.WriteLine("One or both input files do not exist.");
+            }
         }
     }
-}
+
+
+
+
